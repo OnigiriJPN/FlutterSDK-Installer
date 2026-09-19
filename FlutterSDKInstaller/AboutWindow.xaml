@@ -1,0 +1,37 @@
+﻿<Window x:Class="FlutterSDKInstaller.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FlutterSDKInstaller"
+        mc:Ignorable="d"
+        Title="バージョン情報" Height="260" Width="380"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+    <Grid Margin="20">
+        <StackPanel VerticalAlignment="Center">
+            <!-- アプリ名 -->
+            <TextBlock Text="Flutter SDK Installer" FontSize="18" FontWeight="Bold" Foreground="{StaticResource ButtonFgBrush}"/>
+            <!-- バージョン -->
+            <TextBlock Text="Version 1.0.0" FontSize="12" Foreground="{StaticResource DisabledFgBrush}" Margin="0,2,0,10"/>
+
+            <!-- 概要 -->
+            <TextBlock Text="公式Flutter SDKの取得から環境変数（PATH）の設定までをスムーズに行うためのインストーラーです。"
+                       TextWrapping="Wrap" FontSize="12" Foreground="{StaticResource ButtonFgBrush}" Margin="0,0,0,10"/>
+
+            <!-- リポジトリ・リンク部分 -->
+            <TextBlock FontSize="12" Margin="0,0,0,10">
+                <Hyperlink NavigateUri="https://github.com/flutter/flutter" RequestNavigate="Hyperlink_RequestNavigate">
+                    Flutter GitHub Repository (Official)
+                </Hyperlink>
+            </TextBlock>
+
+            <!-- 免責事項 -->
+            <TextBlock Text="※FlutterはGoogle LLCの商標です。本ツールはオープンソースの独立したユーティリティです。"
+                       TextWrapping="Wrap" FontSize="10" Foreground="{StaticResource DisabledFgBrush}" Margin="0,0,0,15"/>
+
+            <!-- 閉じるボタン -->
+            <Button Content="閉じる" Width="80" Height="26" HorizontalAlignment="Right"
+                    Style="{StaticResource RoundedButton}" Click="CloseButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

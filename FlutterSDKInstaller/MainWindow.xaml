@@ -1,0 +1,48 @@
+﻿<Window x:Class="FlutterSDKInstaller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FlutterSDKInstaller"
+        xmlns:locals="clr-namespace:FlutterSDKInstaller.Controls"
+        mc:Ignorable="d"
+        Title="FlutterSDK Installer -- 非公式" Height="470" Width="800" Loaded="Window_Loaded" MaxHeight="470" MaxWidth="800" MinHeight="470" MinWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="36"/>
+            <!-- タイトルバー＆ボタン用の領域 -->
+            <RowDefinition Height="*"/>
+            <!-- メインコンテンツ（ウィザードなど） -->
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <!-- 【上部エリア】ここがDWM拡張領域と重なる場所 -->
+        <Grid Grid.Row="0" Background="Transparent" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="400,0,0,0" Width="260">
+                <!-- 右上の「FlutterSDK Installerについて」ボタン（右上のシステムボタンの左側に配置するイメージ） -->
+                <Button Content="FlutterSDK Installerについて" 
+                        Style="{StaticResource RoundedButton}" 
+                        Width="159" Height="24"
+                        Click="AboutButton_Click"/>
+                <Button Content="ダークテーマにする" 
+        Style="{StaticResource RoundedButton}" 
+        Width="101" Height="24"
+        Click="DarkThemeChangeButton_Click" Visibility="Collapsed"/>
+            </StackPanel>
+
+        </Grid>
+
+        <!-- 【メインコンテンツ領域】 -->
+        <Grid Grid.Row="1" Background="{StaticResource ButtonBgBrush}">
+            <!-- 【中央エリア】各ステップの Page を表示・遷移させる Frame -->
+            <Frame x:Name="WizardFrame" Grid.Row="1" NavigationUIVisibility="Hidden" Background="{StaticResource ButtonBgBrush}" Navigated="WizardFrame_Navigated" NavigationFailed="WizardFrame_NavigationFailed"/>
+
+            <!-- 【下部エリア】共通フッターのユーザーコントロール -->
+            <locals:WizardFooter 
+                             BackClick="Footer_BackClick" 
+                             NextClick="Footer_NextClick" 
+                             CancelClick="Footer_CancelClick" Margin="0,297,0,0" Height="50" VerticalAlignment="Top"
+                x:Name="MyFooter"/>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,31 @@
+﻿<Page x:Class="FlutterSDKInstaller.Pages.Step2Page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FlutterSDKInstaller.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Step2Page">
+
+    <Grid Margin="32">
+        <StackPanel VerticalAlignment="Center">
+            <TextBlock Text="インストール先の設定" 
+                   FontSize="20" 
+                   FontWeight="Bold" 
+                   Margin="0,0,0,16"/>
+            <TextBlock Text="Flutter SDKをインストールするフォルダを選択してください。" 
+                   FontSize="13" 
+                   Margin="0,0,0,8"/>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="90"/>
+                </Grid.ColumnDefinitions>
+                <TextBox Grid.Column="0" Text="C:\flutter" Height="26" VerticalContentAlignment="Center" Margin="0,0,8,0" x:Name="TxtInstallPath"/>
+                <Button Grid.Column="1" Content="参照..." Height="26" Style="{StaticResource RoundedButton}" Click="Button_Click"/>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\FlutterSDKInstaller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|d:\\repos\\fluttersdkinstaller\\fluttersdkinstaller\\pages\\step2page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|solutionrelative:fluttersdkinstaller\\pages\\step2page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|d:\\repos\\fluttersdkinstaller\\fluttersdkinstaller\\pages\\step3page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|solutionrelative:fluttersdkinstaller\\pages\\step3page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|d:\\repos\\fluttersdkinstaller\\fluttersdkinstaller\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|solutionrelative:fluttersdkinstaller\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|d:\\repos\\fluttersdkinstaller\\fluttersdkinstaller\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|solutionrelative:fluttersdkinstaller\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|d:\\repos\\fluttersdkinstaller\\fluttersdkinstaller\\pages\\step2page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|solutionrelative:fluttersdkinstaller\\pages\\step2page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|d:\\repos\\fluttersdkinstaller\\fluttersdkinstaller\\pages\\step1page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|solutionrelative:fluttersdkinstaller\\pages\\step1page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|d:\\repos\\fluttersdkinstaller\\fluttersdkinstaller\\pages\\step4page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|solutionrelative:fluttersdkinstaller\\pages\\step4page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|d:\\repos\\fluttersdkinstaller\\fluttersdkinstaller\\pages\\step3page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|solutionrelative:fluttersdkinstaller\\pages\\step3page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|d:\\repos\\fluttersdkinstaller\\fluttersdkinstaller\\aboutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|solutionrelative:fluttersdkinstaller\\aboutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|d:\\repos\\fluttersdkinstaller\\fluttersdkinstaller\\aboutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|solutionrelative:fluttersdkinstaller\\aboutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|d:\\repos\\fluttersdkinstaller\\fluttersdkinstaller\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F63B0314-FA62-C441-2BF4-03C2F78E980D}|FlutterSDKInstaller\\FlutterSDKInstaller.csproj|solutionrelative:fluttersdkinstaller\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Step3Page.xaml.cs",
+              "DocumentMoniker": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step3Page.xaml.cs",
+              "RelativeDocumentMoniker": "FlutterSDKInstaller\\Pages\\Step3Page.xaml.cs",
+              "ToolTip": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step3Page.xaml.cs",
+              "RelativeToolTip": "FlutterSDKInstaller\\Pages\\Step3Page.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T13:26:12.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Step2Page.xaml.cs",
+              "DocumentMoniker": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step2Page.xaml.cs",
+              "RelativeDocumentMoniker": "FlutterSDKInstaller\\Pages\\Step2Page.xaml.cs",
+              "ToolTip": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step2Page.xaml.cs",
+              "RelativeToolTip": "FlutterSDKInstaller\\Pages\\Step2Page.xaml.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAiwHQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T13:02:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FlutterSDKInstaller\\MainWindow.xaml",
+              "ToolTip": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\MainWindow.xaml",
+              "RelativeToolTip": "FlutterSDKInstaller\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-19T08:56:32.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FlutterSDKInstaller\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FlutterSDKInstaller\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T08:56:20.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Step2Page.xaml",
+              "DocumentMoniker": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step2Page.xaml",
+              "RelativeDocumentMoniker": "FlutterSDKInstaller\\Pages\\Step2Page.xaml",
+              "ToolTip": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step2Page.xaml",
+              "RelativeToolTip": "FlutterSDKInstaller\\Pages\\Step2Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-19T13:02:32.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Step1Page.xaml.cs",
+              "DocumentMoniker": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step1Page.xaml.cs",
+              "RelativeDocumentMoniker": "FlutterSDKInstaller\\Pages\\Step1Page.xaml.cs",
+              "ToolTip": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step1Page.xaml.cs",
+              "RelativeToolTip": "FlutterSDKInstaller\\Pages\\Step1Page.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T12:52:24.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Step3Page.xaml",
+              "DocumentMoniker": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step3Page.xaml",
+              "RelativeDocumentMoniker": "FlutterSDKInstaller\\Pages\\Step3Page.xaml",
+              "ToolTip": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step3Page.xaml",
+              "RelativeToolTip": "FlutterSDKInstaller\\Pages\\Step3Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-19T12:04:53.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Step4Page.xaml",
+              "DocumentMoniker": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step4Page.xaml",
+              "RelativeDocumentMoniker": "FlutterSDKInstaller\\Pages\\Step4Page.xaml",
+              "ToolTip": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\Pages\\Step4Page.xaml",
+              "RelativeToolTip": "FlutterSDKInstaller\\Pages\\Step4Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-19T12:05:38.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutWindow.xaml",
+              "DocumentMoniker": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\AboutWindow.xaml",
+              "RelativeDocumentMoniker": "FlutterSDKInstaller\\AboutWindow.xaml",
+              "ToolTip": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\AboutWindow.xaml",
+              "RelativeToolTip": "FlutterSDKInstaller\\AboutWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-19T09:14:00.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\AboutWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FlutterSDKInstaller\\AboutWindow.xaml.cs",
+              "ToolTip": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\AboutWindow.xaml.cs",
+              "RelativeToolTip": "FlutterSDKInstaller\\AboutWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T09:43:41.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\App.xaml",
+              "RelativeDocumentMoniker": "FlutterSDKInstaller\\App.xaml",
+              "ToolTip": "D:\\Repos\\FlutterSDKInstaller\\FlutterSDKInstaller\\App.xaml",
+              "RelativeToolTip": "FlutterSDKInstaller\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-19T09:19:42.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
